@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ranja
-- 👀 I’m interested in web development and administration
-- 🌱 I’m currently learning bootstrap/php/mysql
-- 💞️ I’m looking to collaborate on php back-end and bootsrap front-end
+- 👀 I’m interested in Web3.0 Technologies and robotics
+- 🌱 I’m currently learning Solidity,Tailwindcss,Reactjs,MongoDB,ExpressJs,NodeJs and NextJs
+- 💞️ I’m looking to collaborate on NodeJs/ExpressJs/Tailwindcss/ReactJs/MongoDB
 - 📫 How to reach me josphatranja243@gmail.com
 
 <!---
