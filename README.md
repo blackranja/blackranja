@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ranja
-- 👀 I’m interested in Web3.0 Technologies and robotics
-- 🌱 I’m currently learning (Tailwindcss,Reactjs,MongoDB,ExpressJs,NodeJs and NextJs) for the Web and (C++/Arduino+ Particle WorkBench) for Robotics
-- 💞️ I’m looking to collaborate using Styling-Tailwindcss, Front_End-ReactJs, Arduino 
+- 👋 Hi, I’m josphat karanja
+- 👀 I’m interested in Web Development, Mobile Development, Linux Administration and Robotics/Mechatronics
+- 🌱 I’m currently learning (Tailwindcss, Reactjs, React Native, MongoDB, Mongoose, ExpressJs, NodeJs and NextJs) for Web and Mobile Application
+- 💞️ I’m looking to collaborate in Web and Mobile Development 
 - 📫 How to reach me josphatranja243@gmail.com
 
 <!---
